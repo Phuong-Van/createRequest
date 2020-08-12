@@ -1,11 +1,22 @@
 {
-  "posts": [
+  "request": [
     {
       "id": 1,
-      "title": "hello"
+      "titleRequest": "hello",
+      "positionName": "test",
+      "vacancy":"test",
+      "department":"test",
+      "businessPriority":"test",
+      "employmentType":"test",
+      "hiringType":"test",
+      "preferredCandidat":"test",
+      "businessUnit":"test",
+      "workSite":"test",
+      "firstJoiningDate":"",
+      "secondJoiningDate":"",
+      "idealNoticePeriod":"",
+      "businessRequirement":"",
+      "roleAndResponsibilities";""
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
